@@ -5,5 +5,5 @@
 　　　　　　　　　　　　　　　　　　　　　　　　图2  执行SQL
 　　　　　　　　　　　![](https://github.com/AlenaRuicheng/DBMS/blob/master/elements/权限管理.png)
 　　　　　　　　　　　　　　　　　　　　　　　　图3  权限管理
-　　　　　　　　　　　![](https://github.com/AlenaRuicheng/DBMS/blob/master/elements/数据索引.png)
+　　　　　　　　　　　![](https://github.com/AlenaRuicheng/DBMS/blob/master/elements/%E6%95%B0%E6%8D%AE%E7%B4%A2%E5%BC%95.png)
 　　　　　　　　　　　　　　　　　　　　　　　　图4  数据索引
