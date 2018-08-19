@@ -28,6 +28,6 @@
 　　　　　　　　　　　　　　　　　　　　　　　　图2  执行SQL<br>
 　　　　　　　　　　　![](https://github.com/AlenaRuicheng/DBMS/blob/master/elements/权限管理.png)
 　　　　　　　　　　　　　　　　　　　　　　　　图3  权限管理<br>
-　　　　　　　　　　　![](https://github.com/AlenaRuicheng/DBMS/blob/master/elements/数据索引.png)
+　　　　　　　　　　![](https://github.com/AlenaRuicheng/DBMS/blob/master/elements/数据索引.png)
 　　　　　　　　　　　　　　　　　　　　　　　　图4  数据索引<br>
  
