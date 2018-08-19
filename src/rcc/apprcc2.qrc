@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="pic">
+  <file>exit.png</file>   <file>exit_hover.png</file>    <file>exit_pressed.png</file>
+    <file>login.png</file>
+    <file>login_hover.png</file>
+    <file>login_pressed.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="pic">
+  <file>coloricon.ico</file>   <file>database.png</file>    <file>table.png</file>
+    <file>reset.png</file>
+    <file>reset_hover.png</file>
+    <file>reset_pressed.png</file>
+    <file>run.png</file>
+    <file>run_hover.png</file>
+    <file>run_pressed.png</file>
+  </qresource>
+</RCC>

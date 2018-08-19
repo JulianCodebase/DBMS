@@ -1,0 +1,9 @@
+abc select,insert,delete,update course
+abc select,insert,delete,update student
+qwe select student
+ asd update,select,delete course
+qwe select,update course
+qwe select aa
+qwe select c
+ asd delete,select,insert,update student
+ abb select,insert student

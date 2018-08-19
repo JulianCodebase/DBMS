@@ -1,0 +1,3 @@
+name char(20)
+id int(10)
+birth char(10)
