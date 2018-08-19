@@ -20,7 +20,7 @@
 │  ├─loginfr.py---------登录界面设计<br>
 │  ├─MainWindow.py---------主界面设计<br>
 │  └─regex.py---------负责处理/检验SQL语句<br>
-└─elements---------Git Hub资源文件<br>
+└─elements---------GitHub资源文件<br>
 ## 项目展示
 　　　　　　　　　　　![](https://github.com/AlenaRuicheng/DBMS/blob/master/elements/%E7%99%BB%E5%BD%95%E6%97%B6.png)
 　　　　　　　　　　　　　　　　　　　　　　　　图1  登录时<br>
