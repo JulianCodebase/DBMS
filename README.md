@@ -22,12 +22,10 @@
 │  └─regex.py---------负责处理/检验SQL语句<br>
 └─elements---------GitHub资源文件<br>
 ## 项目展示
-　　　　　　　　　　　![](https://github.com/AlenaRuicheng/DBMS/blob/master/elements/%E7%99%BB%E5%BD%95%E6%97%B6.png)
-　　　　　　　　　　　　　　　　　　　　　　　　图1  登录时<br>
 　　　　　　　　　　　![](https://github.com/AlenaRuicheng/DBMS/blob/master/elements/执行SQL.png)
-　　　　　　　　　　　　　　　　　　　　　　　　图2  执行SQL<br>
+　　　　　　　　　　　　　　　　　　　　　　　　图1  执行SQL<br>
 　　　　　　　　　　　![](https://github.com/AlenaRuicheng/DBMS/blob/master/elements/权限管理.png)
-　　　　　　　　　　　　　　　　　　　　　　　　图3  权限管理<br>
+　　　　　　　　　　　　　　　　　　　　　　　　图2  权限管理<br>
 　　　　　　　　![](https://github.com/AlenaRuicheng/DBMS/blob/master/elements/数据索引.png)
-　　　　　　　　　　　　　　　　　　　　　　　　图4  数据索引<br>
+　　　　　　　　　　　　　　　　　　　　　　　　图3  数据索引<br>
  
